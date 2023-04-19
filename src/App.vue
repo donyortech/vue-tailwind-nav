@@ -1,4 +1,5 @@
 <template>
+  <!-- https://youtu.be/jPOw08utA58 -->
   <nav
     class="bg-blue-500 px-4 py-3 flex flex-wrap items-center justify-between"
   >
